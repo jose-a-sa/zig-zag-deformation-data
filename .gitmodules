@@ -1,0 +1,6 @@
+[submodule "QuiverGaugeTheory"]
+	path = QuiverGaugeTheory
+	url = git@github.com:jose-a-sa/QuiverGaugeTheory.git
+[submodule "InterfaceM2"]
+	path = InterfaceM2
+	url = git@github.com:jose-a-sa/InterfaceM2.git
