@@ -4230,7 +4230,7 @@
        Subscript[X, 1][11, 10] \[CenterDot] Subscript[X, 1][10, 7] - 
       Subscript[X, 1][8, 10] \[CenterDot] Subscript[X, 1][10, 
         12] \[CenterDot] Subscript[X, 1][12, 9] \[CenterDot] 
-       Subscript[X, 1][9, 8]]}], "L^{1,3,2}" -> 
+       Subscript[X, 1][9, 8]]}], "L^{4,3,2}" -> 
   Graph[{-(Subscript[X, 1][1, 2] \[CenterDot] Subscript[X, 2][2, 
         7] \[CenterDot] Subscript[X, 1][7, 1]) - 
      Subscript[X, 1][1, 5] \[CenterDot] Subscript[X, 1][5, 3] \[CenterDot] 
@@ -12188,7 +12188,7 @@
        Subscript[X, 2][1, 2] - Subscript[X, 1][4, 5] \[CenterDot] 
        Subscript[X, 1][5, 8] \[CenterDot] Subscript[X, 1][8, 7] \[CenterDot] 
        Subscript[X, 1][7, 6] \[CenterDot] Subscript[X, 1][6, 4]]}], 
- "K^{4,4,2,4}" -> 
+ "K^{4,4,2,3}" -> 
   Graph[{-(Subscript[X, 1][1, 2] \[CenterDot] Subscript[X, 1][2, 
         3] \[CenterDot] Subscript[X, 1][3, 1]) + 
      Subscript[X, 1][1, 2] \[CenterDot] Subscript[X, 1][2, 11] \[CenterDot] 
